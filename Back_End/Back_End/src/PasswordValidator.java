@@ -1,8 +1,5 @@
 public class PasswordValidator {
-    public static void main(String[] args) {
-        String password = "Ba0000_1";
-        System.out.println(isValidPassword(password));
-    }
+
 
     public static boolean isValidPassword(String password) {
         // Check password length
